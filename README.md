@@ -11,7 +11,7 @@ Abaixo, temos um diagrama que você pode usar como base:
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
