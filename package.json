@@ -1,0 +1,25 @@
+{
+  "name": "desafio-api-filmes",
+  "version": "1.0.0",
+  "description": "Desafio do stage 08 da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js",
+    "migrate": "knex migrate:latest"
+  },
+  "keywords": [],
+  "author": "Cristian Giehl",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1",
+    "file-type": "^19.0.0",
+    "knex": "^3.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
