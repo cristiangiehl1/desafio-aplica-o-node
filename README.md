@@ -11,16 +11,25 @@ Abaixo, temos um diagrama que você pode usar como base:
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
 - JavaScript
+- Node.js
+- Sqlite
 - Git e Github
-- Figma
+- Insomnia
+- Beekeeper
+
+## 📚 Bibliotecas
+Esse projeto foi desenvolvido com as seguintes bibliotecas:
+- Bycrypt
+- Express e express-async-errors
+- Knex
+- Nodemon
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
